@@ -33,30 +33,37 @@ I hold a **Master’s** and a **Ph.D.** in **Programming Languages**, having use
 
 ## 💼 Professional Experience
 
-### 🏛️ Universidade Federal da Fronteira Sul (UFFS)
-**Professor** · *Jan 2022 – Present*  
+### 💻 Victali Solutions
+**Senior Software Engineer and Consultant** · *Nov 2025 – Present*  
+Led product development and a small engineering team (2–3 developers).  
+**Stack:** Haskell · C++ · Java · Typescript
+
+---
+
+### 🏛️ Federal University of the South Border (UFFS)
+**Lecturer** · *Jan 2022 – Present*  
 **Teaching:** Programming Languages, Theory of Computation, Functional Programming, OOP, Competitive Programming.  
 **Research:** Random Program Generation, Property-Based Testing, Language Design.  
 **Skills:** Haskell · Java · C++ · R&D  
 
 ---
 
-### 🏛️ Instituto Federal de Santa Catarina (IFSC)
-**Professor** · *Feb 2016 – Dec 2021*  
+### 🏛️ Federal Institute of Santa Catarina (IFSC)
+**Lecturer** · *Feb 2016 – Dec 2021*  
 Lecturing and researching in functional and object-oriented programming, random program generation, and testing.  
 **Skills:** Haskell · Java · C++   
 
 ---
 
-### 🏛️ Universidade Federal de Santa Maria (UFSM)
-**Professor** · *Aug 2014 – Dec 2014*  
+### 🏛️ Federal University of Santa Maria (UFSM)
+**Lecturer** · *Aug 2014 – Dec 2014*  
 Lecturing design of algorithms, object-oriented programming.  
 **Skills:** Java · Haskell · C++
 
 ---
 
-### 🏛️ Unochapecó - Universidade Comunitária da Região de Chapecó
-**Professor** · *Feb 2011 – Feb 2014*  
+### 🏛️ Community University of Chapecó (Unochapecó)
+**Lecturer** · *Feb 2011 – Feb 2014*  
 Taught various programming-related subjects.  
 **Skills:** Java · C++ · Algorithms · OOP  
 
