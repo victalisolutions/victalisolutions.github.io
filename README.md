@@ -13,8 +13,8 @@
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=0e75b6&style=flat-square" alt="Profile views" />
-  <img src="https://img.shields.io/github/followers/YOUR_GITHUB_USERNAME?label=Followers&style=flat-square" alt="Followers"/>
+  <img src="https://komarev.com/ghpvc/?username=victalisolutions&color=0e75b6&style=flat-square" alt="Profile views" />
+  <img src="https://img.shields.io/github/followers/victalisolutions?label=Followers&style=flat-square" alt="Followers"/>
   <img src="https://img.shields.io/badge/Functional%20Programming-Haskell-blue?style=flat-square"/>
   <img src="https://img.shields.io/badge/Blockchain-Cardano-orange?style=flat-square"/>
 </p>
@@ -40,7 +40,7 @@ I’m passionate about:
 
 | Category | Technologies |
 |-----------|---------------|
-| 🧑‍💻 **Languages** | Haskell, Rust, TypeScript, C |
+| 🧑‍💻 **Languages** | Haskell, C/C++, Java, TypeScript |
 | 🧩 **Frameworks** | Plutus, Node.js, React |
 | 🧪 **Testing** | QuickCheck, Property-Based Testing, CI/CD |
 | ⚙️ **DevOps** | Docker, AWS, Nix |
@@ -96,12 +96,12 @@ Specialized in backend engineering, property-based testing, and system architect
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=default&hide_border=true" alt="Samuel's GitHub stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=default&hide_border=true" alt="GitHub Streak"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=victalisolutions&show_icons=true&theme=default&hide_border=true" alt="Samuel's GitHub stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=victalisolutions&theme=default&hide_border=true" alt="GitHub Streak"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=default&hide_border=true" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=victalisolutions&layout=compact&theme=default&hide_border=true" alt="Top Languages"/>
 </p>
 
 ---
@@ -109,7 +109,7 @@ Specialized in backend engineering, property-based testing, and system architect
 ## 🧭 Profile Summary Card
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YOUR_GITHUB_USERNAME&theme=default" alt="Profile summary card"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=victalisolutions&theme=default" alt="Profile summary card"/>
 </p>
 
 ---
@@ -117,9 +117,9 @@ Specialized in backend engineering, property-based testing, and system architect
 ## 🧑‍💻 Connect with Me
 
 <p align="center">
-  <a href="mailto:YOUR_EMAIL@example.com"><img src="https://img.shields.io/badge/Email-Contact-informational?style=for-the-badge&logo=gmail"/></a>
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME"><img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin"/></a>
-  <a href="https://github.com/YOUR_GITHUB_USERNAME"><img src="https://img.shields.io/badge/GitHub-Repos-black?style=for-the-badge&logo=github"/></a>
+  <a href="mailto:victalisolutions@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-informational?style=for-the-badge&logo=gmail"/></a>
+  <a href="https://linkedin.com/in/samuelfeitosa"><img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin"/></a>
+  <a href="https://github.com/victalisolutions"><img src="https://img.shields.io/badge/GitHub-Repos-black?style=for-the-badge&logo=github"/></a>
 </p>
 
 ---
