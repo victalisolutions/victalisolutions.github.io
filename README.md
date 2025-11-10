@@ -35,8 +35,8 @@ I hold a **Master’s** and a **Ph.D.** in **Programming Languages**, having use
 
 ### 💻 Victali Solutions
 **Senior Software Engineer and Consultant** · *Nov 2025 – Present*  
-Head of development and software architecture consulting.
-**Stack:** Haskell · C++ · Java · Typescript
+Head of development and software architecture consulting.  
+**Skills:** Haskell · C++ · Java · Typescript
 
 ---
 
@@ -72,14 +72,14 @@ Taught various programming-related subjects.
 ### 💻 BeanWeb Solutions
 **Head of Development / Co-founder** · *Nov 2009 – Feb 2014*  
 Led product development and a small engineering team (2–3 developers).  
-**Stack:** C++ · Java · JavaScript · PostgreSQL · HTML/CSS · Linux  
+**Skills:** C++ · Java · JavaScript · PostgreSQL · HTML/CSS · Linux  
 
 ---
 
 ### 💻 SGI Systems
 **Senior Software Engineer** · *Aug 2006 – Dec 2009*  
 Developed Linux middleware and drivers to integrate legacy systems and equipment.  
-**Tech:** C++ · Java · Perl · Client-Server Systems · Linux  
+**Skills:** C++ · Java · Perl · Client-Server Systems · Linux  
 
 ---
 
