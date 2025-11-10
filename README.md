@@ -55,7 +55,7 @@ Lecturing and researching in functional and object-oriented programming, random 
 
 ---
 
-### 💻 Freelance Consulting
+### 💻 IT Consulting
 **Consulting for startups and mid-size companies** · *Fev 2014 – Dec 2016*  
 Providing software architecture consulting for startups and fast-growing tech companies.  
 **Skills:** C/C++ · C# · Java · Typescript
