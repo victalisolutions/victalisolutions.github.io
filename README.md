@@ -148,8 +148,6 @@ Developed Linux middleware and drivers to integrate legacy systems and equipment
 [![GitHub](https://img.shields.io/badge/GitHub-black?logo=github&logoColor=white)](https://github.com/victalisolutions)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:victalisolutions@gmail.com)
 
----
-
 <p align="center">
   <img src="photo.jpg" alt="Samuel Feitosa" width="180" style="border-radius:50%;">
 </p>
