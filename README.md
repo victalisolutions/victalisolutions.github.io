@@ -35,21 +35,21 @@ I hold a **Master’s** and a **Ph.D.** in **Programming Languages**, having use
 **Professor** · *Jan 2022 – Present*  
 **Teaching:** Programming Languages, Theory of Computation, Functional Programming, OOP, Competitive Programming.  
 **Research:** Random Program Generation, Property-Based Testing, Language Design.  
-**Skills:** Haskell · Java · React.js · C++ · Node.js · R&D  
+**Skills:** Haskell · Java · C++ · R&D  
 
 ---
 
 ### 🏛️ Instituto Federal de Santa Catarina (IFSC)
 **Professor** · *Feb 2016 – Dec 2021*  
 Lecturing and researching in functional and object-oriented programming, random program generation, and testing.  
-**Skills:** Haskell · Java · React.js · C++ · Node.js  
+**Skills:** Haskell · Java · C++   
 
 ---
 
 ### 🏛️ Universidade Federal de Santa Maria (UFSM)
 **Professor** · *Aug 2014 – Dec 2014*  
-Subjects: Design of Algorithms, Object-Oriented Programming.  
-**Skills:** Java · Haskell · C++ · Theory of Computation  
+Lecturing design of algorithms, object-oriented programming.  
+**Skills:** Java · Haskell · C++
 
 ---
 
@@ -60,14 +60,14 @@ Taught various programming-related subjects.
 
 ---
 
-### 💻 BeanWeb Soluções
+### 💻 BeanWeb Solutions
 **Head of Development / Co-founder** · *Nov 2009 – Feb 2014*  
 Led product development and a small engineering team (2–3 developers).  
 **Stack:** C++ · Java · JavaScript · PostgreSQL · HTML/CSS · Linux  
 
 ---
 
-### 💻 SGI Sistemas
+### 💻 SGI Systems
 **Senior Software Engineer** · *Aug 2006 – Dec 2009*  
 Developed Linux middleware and drivers to integrate legacy systems and equipment.  
 **Tech:** C++ · Java · Perl · Client-Server Systems · Linux  
