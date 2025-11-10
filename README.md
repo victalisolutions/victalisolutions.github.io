@@ -94,12 +94,12 @@ Developed Linux middleware and drivers to integrate legacy systems and equipment
 
 | Project | Description | Technologies | Link |
 |----------|--------------|--------------|------|
-| 🧬 **JsonGen** | Json and schema generator for testing validators | Haskell · QuickCheck · Json Validators | [GitHub Repo](#) |
-| 🎇 **Generic Crud Servant Persistent** | Playground with Haskell Persistent | Haskell · Persistent | [GitHub Repo](#) |
-| ⚙️ **BW API** | An open-source library with several C++ helpful classes | C++ · Network | [GitHub Repo](#) |
-| 🌀 **FJ in Haskell** | An implementation of Featherweight Java in Haskell | Haskell · Happy | [GitHub Repo](#) |
-| ☕ **JavaGen** | Type-driven Java program generator for PBT | Java · Jqwik · JavaParser | [GitHub Repo](#) |
-| 🔏 **TSAuthRoles** | Typescript implementation of Auth with Roles | Typescript · Express | [GitHub Repo](#) |
+| 🧬 **JsonGen** | Json and schema generator for testing validators | Haskell · QuickCheck · Json Validators | [GitHub Repo](https://github.com/sfeitosa/json-gen) |
+| 🎇 **Generic Crud Servant Persistent** | Playground with Haskell Persistent | Haskell · Persistent | [GitHub Repo](https://github.com/sfeitosa/generic-crud-servant-persistent) |
+| ⚙️ **BW API** | An open-source library with several C++ helpful classes | C++ · Network | [GitHub Repo](https://github.com/sfeitosa/bw-api) |
+| 🌀 **FJ in Haskell** | An implementation of Featherweight Java in Haskell | Haskell · Happy | [GitHub Repo](https://github.com/sfeitosa/featherweight-java) |
+| ☕ **JavaGen** | Type-driven Java program generator for PBT | Java · Jqwik · JavaParser | [GitHub Repo](https://github.com/sfeitosa/java-gen) |
+| 🔏 **TSAuthRoles** | Typescript implementation of Auth with Roles | Typescript · Express | [GitHub Repo](https://github.com/sfeitosa/typescript-rest-api-auth-roles) |
 
 ---
 
