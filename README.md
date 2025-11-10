@@ -94,9 +94,11 @@ Developed Linux middleware and drivers to integrate legacy systems and equipment
 
 | Project | Description | Technologies | Link |
 |----------|--------------|--------------|------|
-| 🧬 **Property-Based Testing for Plutus** | Framework for testing Cardano smart contracts | Haskell · Plutus · QuickCheck | [GitHub Repo](#) |
-| 🌀 **Random Program Generator** | Automatic program synthesis and test generation | Haskell · Agda | [GitHub Repo](#) |
-| ⚙️ **Functional Language Design Toolkit** | Teaching compiler & semantic verifier | Haskell | [GitHub Repo](#) |
+| 🧬 **JsonGen** | Json and schema generator for testing validators | Haskell · QuickCheck · Json Validators | [GitHub Repo](#) |
+| 🎇 **Generic Crud Servant Persistent** | Playground with Haskell Persistent | Haskell · Persistent | [GitHub Repo](#) |
+| ⚙️ **BW API** | An open-source library with several C++ helpful classes | C++ · Network | [GitHub Repo](#) |
+| 🌀 **FJ in Haskell** | An implementation of Featherweight Java in Haskell | Haskell · Happy | [GitHub Repo](#) |
+| ☕ **JavaGen** | Type-driven Java program generator for PBT | Java · Jqwik · JavaParser | [GitHub Repo](#) |
 
 ---
 
