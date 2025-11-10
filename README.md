@@ -11,7 +11,7 @@ I'm a **Lecturer, Researcher, and Software Engineer** with a strong background i
 
 Over the course of my career, I’ve gained **extensive experience** coding with **Haskell**, **C++**, and **Java**, working closely with **corporate leadership**, **clients**, and **academic institutions**.
 
-In recent years, I’ve focused on **teaching and research** at Brazilian Federal Universities, uniting **academic theory** with **industry practice**.  
+In recent years, I’ve focused on **teaching and research** at Brazilian Federal Universities and **software architecture consulting** for for organizations of all sizes, uniting **academic theory** with **industry practice**
 
 I hold a **Master’s** and a **Ph.D.** in **Programming Languages**, having used **Haskell** and **Agda** to specify, implement, test, and prove properties of programming languages.
 
