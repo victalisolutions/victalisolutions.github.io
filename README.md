@@ -111,21 +111,17 @@ Developed Linux middleware and drivers to integrate legacy systems and equipment
 ## 📄 Publications & Talks
 
 ### 🧾 Selected Publications
-- **Feitosa, S.**, *Property-Based Testing for Functional and Smart Contract Languages*, Journal of Functional Programming Research, 2023.  
-- **Feitosa, S.**, *Random Generation of Programs for Language Testing*, Proc. of SBC Symposium on Programming Languages (SBLP), 2021.  
-- **Feitosa, S.**, *Formal Verification of Type Systems using Agda*, Master's Thesis, 2018.  
-
-*(Add or replace with your real publications when available)*
+- **Feitosa, S.**, *Differential Testing using Random Well-Typed Haskell Programs*, Proc. of Brazilian Symposium on Programming Languages (SBLP), 2024.
+- **Feitosa, S.**, *An intrinsically-typed solution for the list-machine benchmark*, Proc. of Brazilian Symposium on Programming Languages (SBLP), 2020.
+- **Feitosa, S.**, *Generating random well-typed Featherweight Java programs using QuickCheck*, Electronic Notes in Theoretical Computer Science, 2019.  
+- **Feitosa, S.**, *FJQuantum–a quantum object oriented language*, Electronic Notes in Theoretical Computer Science, 2016.  
 
 ---
 
 ### 🎙️ Talks & Lectures
-- **“Property-Based Testing in Haskell and Plutus”** — IOHK Developer Meetup (2024)  
-- **“Bringing Formal Methods to Real-World Programming”** — UFFS Colloquium, 2023  
+- **“Designing Type-Safe Languages”** — UFFS Lectures, 2025
+- **“Advances on Functional Programming”** — UFFS Colloquium, 2023  
 - **“Functional Programming in Education”** — IFSC Academic Week, 2020  
-- **“Designing Type-Safe Languages”** — UFSM Lecture Series, 2019  
-
-*(These can link to slides, recordings, or PDFs if available.)*
 
 ---
 
