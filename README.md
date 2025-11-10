@@ -99,6 +99,7 @@ Developed Linux middleware and drivers to integrate legacy systems and equipment
 | ⚙️ **BW API** | An open-source library with several C++ helpful classes | C++ · Network | [GitHub Repo](#) |
 | 🌀 **FJ in Haskell** | An implementation of Featherweight Java in Haskell | Haskell · Happy | [GitHub Repo](#) |
 | ☕ **JavaGen** | Type-driven Java program generator for PBT | Java · Jqwik · JavaParser | [GitHub Repo](#) |
+| 🔏 **TSAuthRoles** | Typescript implementation of Auth with Roles | Typescript · Express | [GitHub Repo](#) |
 
 ---
 
