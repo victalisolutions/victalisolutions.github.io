@@ -157,8 +157,8 @@ Developed Linux middleware and drivers to integrate legacy systems and equipment
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR-GITHUB-HERE&show_icons=true&theme=tokyonight" alt="Samuel's GitHub stats" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR-GITHUB-HERE&theme=tokyonight" alt="GitHub Streak" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=victalisolutions&show_icons=true&theme=tokyonight" alt="Samuel's GitHub stats" height="160"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=victalisolutions&theme=tokyonight" alt="GitHub Streak" height="160"/>
 </p>
 
 ---
