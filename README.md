@@ -150,8 +150,6 @@ Developed Linux middleware and drivers to integrate legacy systems and equipment
 
 ---
 
-## 🖼️ About Me
-
 <p align="center">
   <img src="photo.jpg" alt="Samuel Feitosa" width="180" style="border-radius:50%;">
 </p>
