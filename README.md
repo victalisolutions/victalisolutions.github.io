@@ -55,6 +55,13 @@ Lecturing and researching in functional and object-oriented programming, random 
 
 ---
 
+### 💻 Freelance Consulting
+**Consulting for startups and mid-size companies ** · *Fev 2014 – Dec 2016*  
+Providing software architecture consulting for startups and fast-growing tech companies. 
+**Skills:** C/C++ · C# · Java · Typescript
+
+---
+
 ### 🏛️ Federal University of Santa Maria (UFSM)
 **Lecturer** · *Aug 2014 – Dec 2014*  
 Lecturing design of algorithms, object-oriented programming.  
