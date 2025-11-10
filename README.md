@@ -1,131 +1,157 @@
-<!--
-  README.md — Samuel Feitosa
-  Senior Software Engineer & IT Consultant
-  Built for GitHub profile or Pages (Markdown-only)
--->
+# 👋 Hi, I'm Samuel Feitosa
 
-<h1 align="center">👋 Hi, I'm <span style="color:#007acc;">Samuel Feitosa</span></h1>
-<h3 align="center">💻 Senior Software Engineer & IT Consultant</h3>
-<p align="center">
-  <em>Building reliable software through functional programming, elegant architecture, and deep testing discipline.</em>
-</p>
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=victalisolutions&color=0e75b6&style=flat-square" alt="Profile views" />
-  <img src="https://img.shields.io/github/followers/victalisolutions?label=Followers&style=flat-square" alt="Followers"/>
-  <img src="https://img.shields.io/badge/Functional%20Programming-Haskell-blue?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Blockchain-Cardano-orange?style=flat-square"/>
-</p>
+**Lecturer · Researcher · Senior Software Engineer**  
+🌍 Chapecó, Santa Catarina, Brazil  
 
 ---
 
 ## 🧠 About Me
 
-<img align="right" src="images/profile.jpg" width="150" alt="Samuel Feitosa" style="border-radius:50%; margin:10px;">
+I'm a **Lecturer, Researcher, and Software Engineer** with a strong background in software development, experience in steering projects, and a passion for guiding less experienced developers.
 
-I’m a **Senior Software Engineer** and **IT Consultant** with over a decade of experience designing, implementing, and maintaining reliable software systems.
+Over the course of my career, I’ve gained **extensive experience** coding with **Haskell**, **C++**, and **Java**, working closely with **corporate leadership**, **clients**, and **academic institutions**.
 
-My current focus is on **functional programming**, **distributed systems**, and **blockchain technologies** — particularly within the **Cardano ecosystem** using **Haskell** and **Plutus**.
+In recent years, I’ve focused on **teaching and research** at Brazilian Federal Universities, uniting **academic theory** with **industry practice**.  
+I hold a **Master’s** and a **Ph.D.** in **Programming Languages**, having used **Haskell** and **Agda** to specify, implement, test, and prove properties of programming languages.
 
-I’m passionate about:
-- Writing **correct, elegant, maintainable code**
-- Building **systems that scale and last**
-- Applying **property-based testing** for real-world reliability
+> 💡 *A fast and passionate learner — challenges are my main motivation.*
 
 ---
 
-## 🧰 Technical Skills
+## 🧩 Areas of Expertise
 
-| Category | Technologies |
-|-----------|---------------|
-| 🧑‍💻 **Languages** | Haskell, C/C++, Java, TypeScript |
-| 🧩 **Frameworks** | Plutus, Node.js, React |
-| 🧪 **Testing** | QuickCheck, Property-Based Testing, CI/CD |
-| ⚙️ **DevOps** | Docker, AWS, Nix |
-| ⛓️ **Blockchain** | Cardano, Smart Contracts, PlutusTx |
-
----
-
-## 🚀 Featured Projects
-
-Here are some of my key projects and contributions.
-
-### 🧩 [Plutus Smart Contract Suite](https://github.com/YOUR_GITHUB_USERNAME/plutus-contract-suite)
-Reusable Haskell modules for **smart contract validation and testing** on the Cardano blockchain.  
-> 🛠 *Haskell · Plutus · Property-Based Testing*
-
----
-
-### ⚙️ [Distributed Data Pipeline](https://github.com/YOUR_GITHUB_USERNAME/data-pipeline)
-Backend system for processing **10M+ records/day** with **type-safe validation** and **observability**.  
-> 🛠 *Haskell · Nix · Docker · CI/CD*
-
----
-
-### 🧪 [Functional Testing Toolkit](https://github.com/YOUR_GITHUB_USERNAME/functional-testing)
-Haskell library for **property-based testing** of distributed systems and smart contracts.  
-> 🛠 *Haskell · QuickCheck · PlutusTx*
+- Functional & Object-Oriented Programming  
+- Programming Language Design  
+- Property-Based Testing & Random Program Generation  
+- Type Systems & Proofs  
+- Software Architecture & Leadership  
+- Research and Development (R&D)
 
 ---
 
 ## 💼 Professional Experience
 
-### 🏢 **IOHK (2024–Present)**  
-*Senior Haskell Developer*  
-Developing and maintaining **Plutus-based smart contract frameworks**, emphasizing **testing discipline** and **reliability** in blockchain systems.
-
-### 🧠 **Victali Software (2019–2024)**  
-*Founder & Consultant*  
-Provided full-cycle **software development** and **IT consulting** for global clients.  
-Specialized in backend engineering, property-based testing, and system architecture.
+### 🏛️ Universidade Federal da Fronteira Sul (UFFS)
+**Professor** · *Jan 2022 – Present*  
+**Teaching:** Programming Languages, Theory of Computation, Functional Programming, OOP, Competitive Programming.  
+**Research:** Random Program Generation, Property-Based Testing, Language Design.  
+**Skills:** Haskell · Java · React.js · C++ · Node.js · R&D  
 
 ---
 
-## ✍️ Writing & Talks
-
-- 🧾 [Property-Based Testing in Plutus: Ensuring Smart Contract Correctness](#)
-- 🧱 [Functional Architecture for Scalable Systems](#)
-- 🎤 Occasional talks on **functional programming** and **software reliability**
-
-> I enjoy sharing insights about Haskell, testing methodologies, and the philosophy of correctness in code.
+### 🏛️ Instituto Federal de Santa Catarina (IFSC)
+**Professor** · *Feb 2016 – Dec 2021*  
+Lecturing and researching in functional and object-oriented programming, random program generation, and testing.  
+**Skills:** Haskell · Java · React.js · C++ · Node.js  
 
 ---
 
-## 📊 GitHub Analytics
+### 🏛️ Universidade Federal de Santa Maria (UFSM)
+**Professor** · *Aug 2014 – Dec 2014*  
+Subjects: Design of Algorithms, Object-Oriented Programming.  
+**Skills:** Java · Haskell · C++ · Theory of Computation  
+
+---
+
+### 🏛️ Unochapecó - Universidade Comunitária da Região de Chapecó
+**Professor** · *Feb 2011 – Feb 2014*  
+Taught various programming-related subjects.  
+**Skills:** Java · C++ · Algorithms · OOP  
+
+---
+
+### 💻 BeanWeb Soluções
+**Head of Development / Co-founder** · *Nov 2009 – Feb 2014*  
+Led product development and a small engineering team (2–3 developers).  
+**Stack:** C++ · Java · JavaScript · PostgreSQL · HTML/CSS · Linux  
+
+---
+
+### 💻 SGI Sistemas
+**Senior Software Engineer** · *Aug 2006 – Dec 2009*  
+Developed Linux middleware and drivers to integrate legacy systems and equipment.  
+**Tech:** C++ · Java · Perl · Client-Server Systems · Linux  
+
+---
+
+## 🧪 Featured Projects
+
+| Project | Description | Technologies | Link |
+|----------|--------------|--------------|------|
+| 🧬 **Property-Based Testing for Plutus** | Framework for testing Cardano smart contracts | Haskell · Plutus · QuickCheck | [GitHub Repo](#) |
+| 🌀 **Random Program Generator** | Automatic program synthesis and test generation | Haskell · Agda | [GitHub Repo](#) |
+| ⚙️ **Functional Language Design Toolkit** | Teaching compiler & semantic verifier | Haskell | [GitHub Repo](#) |
+
+---
+
+## 🎓 Education
+
+🎓 **Ph.D. in Computer Science (Programming Languages)**  
+🎓 **M.Sc. in Computer Science**  
+**Focus:** Functional Programming · Property-Based Testing · Formal Verification  
+
+---
+
+## 📄 Publications & Talks
+
+### 🧾 Selected Publications
+- **Feitosa, S.**, *Property-Based Testing for Functional and Smart Contract Languages*, Journal of Functional Programming Research, 2023.  
+- **Feitosa, S.**, *Random Generation of Programs for Language Testing*, Proc. of SBC Symposium on Programming Languages (SBLP), 2021.  
+- **Feitosa, S.**, *Formal Verification of Type Systems using Agda*, Master's Thesis, 2018.  
+
+*(Add or replace with your real publications when available)*
+
+---
+
+### 🎙️ Talks & Lectures
+- **“Property-Based Testing in Haskell and Plutus”** — IOHK Developer Meetup (2024)  
+- **“Bringing Formal Methods to Real-World Programming”** — UFFS Colloquium, 2023  
+- **“Functional Programming in Education”** — IFSC Academic Week, 2020  
+- **“Designing Type-Safe Languages”** — UFSM Lecture Series, 2019  
+
+*(These can link to slides, recordings, or PDFs if available.)*
+
+---
+
+## ⚙️ Tech Stack
+
+![Haskell](https://img.shields.io/badge/Haskell-5e5086?logo=haskell&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)
+![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
+![Agda](https://img.shields.io/badge/Agda-9B4F96?logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white)
+
+---
+
+## 🌐 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samuelfeitosa)
+[![GitHub](https://img.shields.io/badge/GitHub-black?logo=github&logoColor=white)](https://github.com/victalisolutions)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:victalisolutions@gmail.com)
+
+---
+
+## 🖼️ About Me
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=victalisolutions&show_icons=true&theme=default&hide_border=true" alt="Samuel's GitHub stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=victalisolutions&theme=default&hide_border=true" alt="GitHub Streak"/>
+  <img src="photo.jpg" alt="Samuel Feitosa" width="180" style="border-radius:50%;">
 </p>
 
+> _"Code is the best way to express an idea clearly — unless you can prove it with types."_ 💡
+
+---
+
+## 📊 GitHub Stats
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=victalisolutions&layout=compact&theme=default&hide_border=true" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR-GITHUB-HERE&show_icons=true&theme=tokyonight" alt="Samuel's GitHub stats" height="160"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR-GITHUB-HERE&theme=tokyonight" alt="GitHub Streak" height="160"/>
 </p>
 
 ---
 
-## 🧭 Profile Summary Card
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=victalisolutions&theme=default" alt="Profile summary card"/>
-</p>
-
----
-
-## 🧑‍💻 Connect with Me
-
-<p align="center">
-  <a href="mailto:victalisolutions@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-informational?style=for-the-badge&logo=gmail"/></a>
-  <a href="https://linkedin.com/in/samuelfeitosa"><img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin"/></a>
-  <a href="https://github.com/victalisolutions"><img src="https://img.shields.io/badge/GitHub-Repos-black?style=for-the-badge&logo=github"/></a>
-</p>
-
----
-
-## ⚡ Fun Facts
-
-- ☕ I code best with strong coffee and **strong types**.  
-- 🧩 I enjoy solving complex problems with **simple, composable abstractions**.  
-- 🧠 Always exploring ways to make **systems simpler and more reliabl**
+⭐️ *If you enjoy my work or want to collaborate, feel free to connect!*
