@@ -35,7 +35,7 @@ I hold a **Master’s** and a **Ph.D.** in **Programming Languages**, having use
 
 ### 💻 Victali Solutions
 **Senior Software Engineer and Consultant** · *Nov 2025 – Present*  
-Led product development and a small engineering team (2–3 developers).  
+Head of development and software architecture consulting.
 **Stack:** Haskell · C++ · Java · Typescript
 
 ---
